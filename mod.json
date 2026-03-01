@@ -1,0 +1,12 @@
+{
+	"geode": "3.0.0-beta.1",
+	"gd": {
+		"win": "2.204",
+		"android": "2.204"
+	},
+	"id": "taprapka.dro6i_coder",
+	"version": "v1.0.0",
+	"name": "Dro6i Level Coder",
+	"developer": "taprapka",
+	"description": "Compiles levels from custom dro6i/ code."
+}
